@@ -1,0 +1,9 @@
+Uses:
+dictionary
+loops
+module : random
+file handling
+
+Task:
+To save Password
+Website : password
