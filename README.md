@@ -19,9 +19,8 @@ This project allows users to securely store, search, generate, view, and delete 
 
 ## 📸 Preview
 
-<img width="700" alt="Password Manager UI" src="https://user-images.githubusercontent.com/placeholder/project-preview.png">
+<img width="700" alt="Password Manager UI" src="https://github.com/jay3425/Password_Manager/blob/main/Screenshot%202026-05-13%20105506.png">
 
-> Replace the image link with your own screenshot later.
 
 ---
 
